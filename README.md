@@ -2,8 +2,16 @@
 ## _Soluciones Digitales • Transformando el Futuro_
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D96B&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=🚀+DESARROLLO+WEB+%26+MÓVIL;🤖+INTELIGENCIA+ARTIFICIAL;☁️+SOLUCIONES+CLOUD" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,20,12&height=300&section=header&text=MUTANTECH&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D96B&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+DESARROLLO+WEB+%26+MÓVIL;🤖+INTELIGENCIA+ARTIFICIAL;☁️+SOLUCIONES+CLOUD;💡+INNOVACIÓN+TECNOLÓGICA" alt="Typing SVG" />
+</div>
+
+<br><br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Innovando_el_Futuro-00D96B?style=for-the-badge&logoColor=white" />
@@ -45,52 +53,42 @@
 ## 🛠️ Tecnologías
 
 <div align="center">
-
-### Frontend Development
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap,sass&perline=5" />
-    </td>
-  </tr>
-</table>
-
-### Backend Development
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,express,fastapi,spring,laravel&perline=4" />
-    </td>
-  </tr>
-</table>
-
-### Bases de Datos
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=5" />
-    </td>
-  </tr>
-</table>
-
-### DevOps & Cloud
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github&perline=4" />
-    </td>
-  </tr>
-</table>
-
-### Mobile Development
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&perline=5" />
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Frontend Development</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=vue,angular,tailwind,bootstrap,sass&perline=5" />
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ Backend Development</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,java,php&perline=4" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=express,fastapi,spring,laravel&perline=4" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🗄️ Bases de Datos</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=redis,firebase&perline=2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔧 DevOps & Cloud</h3>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&perline=4" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=azure,jenkins,github&perline=3" />
+      </td>
+      <td align="center" width="50%">
+        <h3>📱 Mobile Development</h3>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=kotlin,swift&perline=2" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -215,13 +213,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="33%">
         <h3>📍 Ubicación</h3>
         <p>Santo Domingo de los Colorados<br>Ecuador 🇪🇨</p>
-        <br>
+      </td>
+      <td align="center" width="33%">
         <h3>📧 Email</h3>
         <p>mutantech.dev@gmail.com</p>
-        <br>
+      </td>
+      <td align="center" width="33%">
         <h3>📞 Teléfono</h3>
         <p>+593 99 179 1165</p>
       </td>
@@ -269,7 +269,7 @@
 
 <div align="center">
 
-### 💚 Hecho con amor por el equipo de MutanTech
+### 💚 Hecho por el equipo de MutanTech
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D96B&center=true&vCenter=true&width=600&lines=🧬+Transformando+ideas+en+código;🚀+Innovación+tecnológica;🌟+Tu+visión+%2B+nuestro+código+%3D+éxito" alt="Footer Animation" />
 
@@ -277,13 +277,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=mutantech&label=Visitas%20al%20Perfil&color=00D96B&style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Hecho_con-❤️_y_☕_en_Ecuador-00D96B?style=for-the-badge" />
-
 </div>
 
 ---
 
 <div align="center">
-<sub><strong>© 2024 MutanTech</strong> | Todos los derechos reservados | Santo Domingo, Ecuador 🇪🇨</sub><br>
+<sub><strong>© 2025 MutanTech</strong> | Todos los derechos reservados | Santo Domingo, Ecuador 🇪🇨</sub><br>
 <sub><em>"Donde la Innovación se Encuentra con la Excelencia"</em></sub>
 </div>
