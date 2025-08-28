@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Desarrollo+Web+%26+Móvil;Soluciones+Tecnológicas;Innovación+Digital;MutanTech" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img width="200" src="https://via.placeholder.com/200x200/1a1a2e/00ff88?text=MT" alt="MutanTech Logo">
-</div>
-
 ---
 
 ## 🚀 ¿Quiénes Somos?
