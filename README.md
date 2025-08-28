@@ -247,7 +247,7 @@
 
 ---
 
-## 🚀 ¿Tienes un Proyecto en Mente?
+##  ¿Tienes un Proyecto en Mente?
 
 <div align="center">
 
@@ -270,7 +270,7 @@
 
 ### 💚 Hecho por el equipo de MutanTech
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D96B&center=true&vCenter=true&width=600&lines=🧬+Transformando+ideas+en+código;🚀+Innovación+tecnológica;🌟+Tu+visión+%2B+nuestro+código+%3D+éxito" alt="Footer Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=00D96B&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+código;Innovación+tecnológica;Tu+visión+%2B+nuestro+código+%3D+éxito" alt="Footer Animation" />
 
 <br><br>
 
