@@ -1,8 +1,8 @@
 # 🤖 MUTANTECH
-## _Soluciones Digitales • Transformando el Futuro_
+## _Soluciones Digitales_
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,20,12&height=300&section=header&text=MUTANTECH&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,12,6&height=300&section=header&text=MUTANTECH&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <br><br>
@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Innovando_el_Futuro-00D96B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubicación-Santo_Domingo,_Ecuador-00D96B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Año-2024-00D96B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Año-2025-00D96B?style=for-the-badge" />
 </p>
 
 ---
@@ -55,37 +55,31 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <h3>🎨 Frontend Development</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=vue,angular,tailwind,bootstrap,sass&perline=5" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,bootstrap,sass&perline=5" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <h3>⚙️ Backend Development</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,java,php&perline=4" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=express,fastapi,spring,laravel&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,express,fastapi,spring,laravel&perline=4" />
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
+        <h3>📱 Mobile Development</h3>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift&perline=3" />
+      </td>
+      <td align="center" width="25%">
         <h3>🗄️ Bases de Datos</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=3" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=redis,firebase&perline=2" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase&perline=3" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" colspan="2" width="50%">
         <h3>🔧 DevOps & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&perline=4" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=azure,jenkins,github&perline=3" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github&perline=4" />
       </td>
-      <td align="center" width="50%">
-        <h3>📱 Mobile Development</h3>
-        <img src="https://skillicons.dev/icons?i=flutter,dart,react&perline=3" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=kotlin,swift&perline=2" />
+      <td align="center" colspan="2" width="50%">
+        <h3>🤖 AI/ML & Data Science</h3>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&perline=4" />
       </td>
     </tr>
   </table>
@@ -176,7 +170,7 @@
           <strong>Josué Brazales</strong><br>
           <em>Senior AI/ML Engineer</em><br>
           <a href="mailto:jabrazales@espe.edu.ec">
-            <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
+            <img src="https://img.shields.io/badge/Email-00D96B?style=for-the-badge&logo=gmail&logoColor=white" />
           </a>
         </div>
       </td>
