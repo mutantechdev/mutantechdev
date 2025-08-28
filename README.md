@@ -202,10 +202,10 @@ Ser líderes en innovación tecnológica en Ecuador y expandir nuestro impacto a
 Siempre estamos buscando talento excepcional para unirse a nuestro equipo.
 
 **Posiciones Actuales:**
-- 🧑‍💻 Full Stack Developer
-- 📱 Mobile App Developer  
-- 🎨 UI/UX Designer
-- ☁️ DevOps Engineer
+ 🧑‍💻 Full Stack Developer
+ 📱 Mobile App Developer  
+ 🎨 UI/UX Designer
+ ☁️ DevOps Engineer
 
 ### 📝 ¿Tienes un Proyecto en Mente?
 ¡Nos encantaría conocerlo! Contáctanos para una consulta gratuita.
