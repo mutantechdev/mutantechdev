@@ -2,7 +2,7 @@
 ## _Soluciones Digitales_
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15,10,5&height=300&section=header&text=MUTANTECH&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:00D96B&height=300&section=header&text=MUTANTECH&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <br><br>
@@ -139,53 +139,63 @@
 ## 👨‍💻 Nuestro Equipo
 
 <div align="center">
-  <table>
+  <table style="table-layout: fixed; width: 100%;">
     <tr>
-      <td align="center" width="20%">
-        <div align="center" style="padding: 20px;">
-          <div style="font-size: 60px; color: #00D96B; margin-bottom: 15px;">💻</div>
-          <strong>Raul Faz</strong><br>
-          <em>Frontend Developer</em><br><br>
+      <td align="center" width="20%" style="vertical-align: top;">
+        <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 20px;">
+          <div style="font-size: 60px; color: #00D96B; margin-bottom: 10px;">💻</div>
+          <div style="text-align: center;">
+            <strong>Raul Faz</strong><br>
+            <em>Frontend Developer</em>
+          </div>
           <a href="mailto:refaz@espe.edu.ec">
             <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
           </a>
         </div>
       </td>
-      <td align="center" width="20%">
-        <div align="center" style="padding: 20px;">
-          <div style="font-size: 60px; color: #00D96B; margin-bottom: 15px;">⚙️</div>
-          <strong>Josué Espinoza</strong><br>
-          <em>Backend Developer</em><br><br>
+      <td align="center" width="20%" style="vertical-align: top;">
+        <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 20px;">
+          <div style="font-size: 60px; color: #00D96B; margin-bottom: 10px;">⚙️</div>
+          <div style="text-align: center;">
+            <strong>Josué Espinoza</strong><br>
+            <em>Backend Developer</em>
+          </div>
           <a href="mailto:ejespinoza5@espe.edu.ec">
             <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
           </a>
         </div>
       </td>
-      <td align="center" width="20%">
-        <div align="center" style="padding: 20px;">
-          <div style="font-size: 60px; color: #00D96B; margin-bottom: 15px;">🤖</div>
-          <strong>Josué Brazales</strong><br>
-          <em>Senior AI/ML Engineer</em><br><br>
+      <td align="center" width="20%" style="vertical-align: top;">
+        <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 20px;">
+          <div style="font-size: 60px; color: #00D96B; margin-bottom: 10px;">🤖</div>
+          <div style="text-align: center;">
+            <strong>Josué Brazales</strong><br>
+            <em>Senior AI/ML Engineer</em>
+          </div>
           <a href="mailto:jabrazales@espe.edu.ec">
             <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
           </a>
         </div>
       </td>
-      <td align="center" width="20%">
-        <div align="center" style="padding: 20px;">
-          <div style="font-size: 60px; color: #00D96B; margin-bottom: 15px;">🚀</div>
-          <strong>Jair Sánchez</strong><br>
-          <em>Full-Stack Developer</em><br><br>
+      <td align="center" width="20%" style="vertical-align: top;">
+        <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 20px;">
+          <div style="font-size: 60px; color: #00D96B; margin-bottom: 10px;">🚀</div>
+          <div style="text-align: center;">
+            <strong>Jair Sánchez</strong><br>
+            <em>Full-Stack Developer</em>
+          </div>
           <a href="mailto:jairssan03@gmail.com">
             <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
           </a>
         </div>
       </td>
-      <td align="center" width="20%">
-        <div align="center" style="padding: 20px;">
-          <div style="font-size: 60px; color: #00D96B; margin-bottom: 15px;">🎨</div>
-          <strong>Lesly Gaibor</strong><br>
-          <em>UI/UX Designer</em><br><br>
+      <td align="center" width="20%" style="vertical-align: top;">
+        <div style="height: 200px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; padding: 20px;">
+          <div style="font-size: 60px; color: #00D96B; margin-bottom: 10px;">🎨</div>
+          <div style="text-align: center;">
+            <strong>Lesly Gaibor</strong><br>
+            <em>UI/UX Designer</em>
+          </div>
           <a href="mailto:lcgaibor@espe.edu.ec">
             <img src="https://img.shields.io/badge/Email-00D96B?style=flat&logo=gmail&logoColor=white" />
           </a>
